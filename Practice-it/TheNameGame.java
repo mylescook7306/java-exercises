@@ -1,5 +1,3 @@
-// CSE 142, Autumn 2010, Jessica Miller
-// This program uses various String methods to sing the name game.
 import java.util.*;
 
 public class TheNameGame {
