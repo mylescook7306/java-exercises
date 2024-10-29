@@ -2,7 +2,7 @@
 // This program uses various String methods to sing the name game.
 import java.util.*;
 
-public class NameGame {
+public class TheNameGame {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		
